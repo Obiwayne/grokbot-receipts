@@ -4,6 +4,8 @@
 
 ![A verdict card: SUPPORTED, with quotes from x.ai and teslanorth.com](docs/img/card-tag-bot.png)
 
+Watch it being built: the [42-second screen recording](https://github.com/Obiwayne/grokbot-receipts/releases/download/v0.1.0/receipts-build.mp4) (research to passing tests, sped up) and the [30-second ad](https://github.com/Obiwayne/grokbot-receipts/releases/download/v0.1.0/receipts-ad.mp4).
+
 ## Why
 
 Asking "@grok is this true?" under a post has become how millions of people fact-check on X, and news outlets keep catching the confident wrong answers ([Al Jazeera](https://www.aljazeera.com/economy/2025/7/11/as-millions-adopt-grok-to-fact-check-misinformation-abounds), [BOOM](https://www.boomlive.in/explainers/grok-x-misinformation-fake-news-fact-checking-verification-28680)). Grok Bot can now be [tagged as @bot on X](https://docs.x.ai/grok-bot/tag-on-x) to hand a post to your own Bot, which has a real computer with a terminal. Receipts gives that Bot rules to work by:
